@@ -1,0 +1,6 @@
+{
+  "name": "plan-mailingu",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
